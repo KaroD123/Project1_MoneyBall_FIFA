@@ -72,10 +72,16 @@ To get the best result I compared the boxcox transformation to a normalization. 
 
 ## Libraries
 import pandas as pd
+
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 import scipy.stats as stats
+
 import os
+
 import statsmodels.api as sm
 
