@@ -63,3 +63,9 @@ After some general cleaning the data, I check the correlation of some caolumns a
 
 To get the best result I compared the boxcox transformation to a normalization. The boxcox was best with an R2 of 0.9551 after removing columns with an high p-value
 
+
+## Answer of the subquestions
+1. See notebook.
+2. In average, the player in Tanzania, Syria and Mozambique have the best overall rating.
+3. The agression of the top 10 players is a little bit lower than the average.
+4. Most of the player are from Englnd (1707), Germany (1154) and (1121).
