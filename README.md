@@ -69,3 +69,12 @@ To get the best result I compared the boxcox transformation to a normalization. 
 2. In average, the player in Tanzania, Syria and Mozambique have the best overall rating.
 3. The agression of the top 10 players is a little bit lower than the average.
 4. Most of the player are from Englnd (1707), Germany (1154) and (1121).
+
+## Libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import scipy.stats as stats
+import os
+import statsmodels.api as sm
